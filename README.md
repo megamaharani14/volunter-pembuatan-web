@@ -4,5 +4,6 @@ Jika anda tertarik untuk menjadi volunter, silahkan lakukan PR(pull request) pad
 
 Silahkan gunakan format berikut:<br>
 **\* Nama, [LinkedIn/Github/Website] (Alamat Url).**
+* Bima, [Linkedin] (alamat url).
 
 
